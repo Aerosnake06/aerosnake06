@@ -18,7 +18,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Aerosnake06/Aerosnake06/output/snake.svg" alt="Snake animation" />
-
-###
